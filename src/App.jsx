@@ -14,7 +14,7 @@ const router = createBrowserRouter([
     ]
   },
 ]);
-function Router() {
+function App() {
   
 
   return (
@@ -22,4 +22,4 @@ function Router() {
   )
 }
 
-export default Router
+export default App

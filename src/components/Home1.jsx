@@ -34,7 +34,7 @@ export default function Home1() {
         </div>
 
         <div>
-          <img src={mv} alt="" className="  w-[100%] h-[700px] object-cover"/>
+          <img src={mv} alt="" className="  w-full h-175 object-cover"/>
         </div>
       </div>
     </div>
